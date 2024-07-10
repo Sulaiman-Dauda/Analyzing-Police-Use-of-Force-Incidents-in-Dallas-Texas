@@ -10,6 +10,6 @@ _**Technology**_:- R, ggplot2, Leaflet for R.
 
 _**Results**_:- The analysis uncovered disparities in incidents involving different racial and gender groups, highlighted peak incident days and months, and identified predominant types of force used by officers. Insights gleaned from this project underscore the importance of addressing potential biases in policing practices and advocating for data-driven reforms.
 
-_**Code**_:- [Analyzing Police Use of Force Incidents in Dallas.R](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%201%20-%20Analyzing%20Police%20Use%20of%20Force%20Incidents%20in%20Dallas%2C%20Texas%20(2016).Rmd)
+_**Code**_:- [Analyzing Police Use of Force Incidents in Dallas.R](https://github.com/Sulaiman-Dauda/Analyzing-Police-Use-of-Force-Incidents-in-Dallas-Texas/blob/main/code.R)
 
 _**Presentation**_:- [Medium](https://medium.com/@abiodauda/analyzing-police-use-of-force-incidents-in-dallas-texas-9765ff5a1f56)
